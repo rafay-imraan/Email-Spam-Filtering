@@ -8,6 +8,6 @@ This repository includes code for machine learning models that filter spam email
 - Random Forest Classifier
 - XGBoost
 
-The code was written entirely in Python version 3.13.2 on Jupyter Notebook. All of these algorithms, excluding XGBoost, were imported from scikit-learn. Other scikit-learn functions used here include LabelEncoder, CountVectorizer, accuracy_score, and classification_report. Pandas was also used in this project. All of the models perform on the same dataset downloaded from [link text](https://kaggle.com).
+The code was written entirely in Python version 3.13.2 on Jupyter Notebook. All of these algorithms, excluding XGBoost, were imported from scikit-learn. Other scikit-learn functions used here include LabelEncoder, CountVectorizer, accuracy_score, and classification_report. Pandas was also used in this project. All of the models perform on the same dataset downloaded from [kaggle.com](https://www.kaggle.com/datasets/abdallahwagih/spam-emails).
 
 **MAKE SURE THE AFOREMENTIONED LIBRARIES ARE INSTALLED BEFORE EXECUTING THE CODE.**
