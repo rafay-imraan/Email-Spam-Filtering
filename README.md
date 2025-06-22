@@ -1,6 +1,7 @@
 # Email Spam Filtering
 This repository includes code for machine learning models that filter spam emails from non-spam (ham) ones. Each model was trained using one of the following algorithms:
 
+- Decision Trees
 - Naïve Bayes Classifier
 - Logistic Regression
 - KNNs (K-Nearest Neighbors)
